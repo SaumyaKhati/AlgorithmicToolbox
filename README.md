@@ -5,4 +5,4 @@ The project is conviniently divided for other users. Each week/module has its ow
 
 **NOTE:** All methods as well as input statements for problems are commented out as default. Therefore, to use the method, you have to uncomment the method pertaining to the problem as well as the input parsing statements which are collectively placed under the comment: "//for problem x". Under such a comment, you will find all code required to run the method pertaining to that problem.
   
-*Current Status:* Solutions up to Week 3 are fully completed. Currently working on solutions for problems #3-6 for Week 4. Comments have been included for Week 3 onwards. 
+*Current Status:* Solutions up to Week 3 are fully completed. Currently working on solutions for problems #3-6 for Week 4. Comments have been included for Week 2 onwards. 
