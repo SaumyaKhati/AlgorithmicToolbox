@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7f0f03b-4afc-43c3-a462-eb9d7c3df5dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f7f0f03b-4afc-43c3-a462-eb9d7c3df5dd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,7 @@
     <session id="-1752986">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
@@ -40,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="409">
-              <caret line="359" column="102" selection-start-line="359" selection-start-column="102" selection-end-line="359" selection-end-column="102" />
+              <caret line="359" column="101" selection-start-line="359" selection-start-column="101" selection-end-line="359" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,18 +127,17 @@
       <workItem from="1596659967120" duration="20019000" />
       <workItem from="1597077574520" duration="2113000" />
       <workItem from="1597151540524" duration="11835000" />
-      <workItem from="1597252347065" duration="7244000" />
+      <workItem from="1597252347065" duration="7269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41211000" />
+    <option name="totallyTimeSpent" value="41236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="710" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -181,7 +178,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
-          <caret line="359" column="102" selection-start-line="359" selection-start-column="102" selection-end-line="359" selection-end-column="102" />
+          <caret line="359" column="101" selection-start-line="359" selection-start-column="101" selection-end-line="359" selection-end-column="101" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
