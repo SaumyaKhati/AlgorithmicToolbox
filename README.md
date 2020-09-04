@@ -1,8 +1,8 @@
 # AlgorithmicToolbox
 This repository contains my solutions for all problems in the course: Algorithmic Toolbox (which is part of the Data Structures and Algorithms Specialization offered 
-by the University of California San Diego). 
+by the University of California San Diego) in **JAVA**. 
 
-Important Notes:
+**Important Notes:**
   1) The project is divided into weeks 1-6 represeting the course modules. 
   
   2) For each week, all of the problems are separated in their own methods (ex: problemOne(), problemTwo(), etc). There may also be "helper" methods related to a problem
@@ -16,3 +16,6 @@ Important Notes:
   
   5) All problem methods have header comments that explain how to solve the problem and the logic behind my implemented solution. As a result, some of the comments
      can be long but please make sure to read it as it will clarify the solution and give you key ideas that may allow you to solve the problem yourself. 
+
+  6)**NOTE:** For some reason, source code cannot be viewed simply by clicking the Java file (therefore) you will need to click Raw in order to see the full file
+  in one window (of course the other option is to download the file). 
