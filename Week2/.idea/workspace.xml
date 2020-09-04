@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f447cc9-0b91-4c02-a244-ea274cab419f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f447cc9-0b91-4c02-a244-ea274cab419f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +31,7 @@
     <session id="194760518">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.98" value="1" />
@@ -157,12 +155,12 @@
       <workItem from="1596467253463" duration="498000" />
       <workItem from="1596468854570" duration="19390000" />
       <workItem from="1596804981115" duration="5078000" />
-      <workItem from="1599233622755" duration="83000" />
+      <workItem from="1599233622755" duration="158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25049000" />
+    <option name="totallyTimeSpent" value="25124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="710" extended-state="0" />
