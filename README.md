@@ -16,6 +16,5 @@ by the University of California San Diego) in **JAVA**.
   
   5) All problem methods have header comments that explain how to solve the problem and the logic behind my implemented solution. As a result, some of the comments
      can be long but please make sure to read it as it will clarify the solution and give you key ideas that may allow you to solve the problem yourself. 
-
-  6)**NOTE: For some reason, source code cannot be viewed simply by clicking the Java file (therefore you will need to click Raw in order to see the full file
-  in one window (of course the other option is to download the file).**
+     
+  **Note:** Previous issue with the line separators has now been fixed! All code can be viewed without having to look at the Raws. 
